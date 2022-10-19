@@ -65,8 +65,8 @@
                 "category_name": "AWS CloudWatch Message",
                 "log_source_name": "AWS CloudWatch"
             },
-            "first_observed": "2022-10-15T16:42:58.140Z",
-            "last_observed": "2022-10-15T16:42:58.140Z",
+            "first_observed": "2022-10-18T16:42:58.140Z",
+            "last_observed": "2022-10-18T16:42:58.140Z",
             "number_observed": 1
         },
 		{
